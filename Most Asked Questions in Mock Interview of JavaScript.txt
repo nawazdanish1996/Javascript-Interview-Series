@@ -1,0 +1,19 @@
+Most Asked Questions in Mock Interview of JavaScript
+
+1. What is DOM?
+2. What is Hoisting?
+3. What is IIFE?
+4. Difference between let, var, and const.
+5. What is generator?
+6. What is event loop?
+7. What are closures?
+8. Difference between normal function and arrow function.
+9. What is promises?
+10. remove comma from an Array.
+11. remove duplicates of an Array.
+12. reverse Array.
+13. What is Object?
+14. remove spaces of string in an Array.
+15. How javascript works?
+16. What is 'this' keyword?
+17. truthly and falsey value in javascript.
